@@ -2,6 +2,32 @@
 {
     public class Program
     {
+
+        public static int Add(int num1, int num2)
+        {
+            return num1 + num2;
+        }
+
+        public static int Subtract(int num1, int num2)
+        {
+            return num1 - num2;
+        }
+
+        public static int Multiply(int num1, int num2)
+        {
+            return num1 * num2;
+        }
+
+        public static int Divide(int num1, int num2)
+        {
+            return num1 / num2;
+        }
+
+        public static int Modulus(int num1, int num2)
+        {
+            return num1 % num2;
+        }
+
         static void Main(string[] args)
         {
 
@@ -20,6 +46,18 @@
             Console.WriteLine($"Once upon a time, there was a person named {userName}. They loved the color {color}, adored {animal}, and couldn't get enough of {band}'s music.");
             Console.WriteLine($"One day, while {userName} was out and about, they stumbled upon a magical moment. They encountered a {animal} that seemed to dance to the rhythm of {band}'s tunes. It was a sight that filled {userName} with joy.");
             Console.WriteLine($"From that day on, whenever {userName} saw their favorite color, {color}, heard their favorite band, {band}, or encountered their favorite animal, {animal}, they couldn't help but smile and remember that magical dance they witnessed.");
+
+            int answer1 = Add(33, 50);
+            int answer2 = Subtract(100, 33);
+            int answer3 = Multiply(3, 10);
+            int answer4 = Divide(15, 3);
+            int answer5 = Modulus(14, 3);
+
+            Console.WriteLine(answer1);
+            Console.WriteLine(answer2);
+            Console.WriteLine(answer3);
+            Console.WriteLine(answer4);
+            Console.WriteLine(answer5);
 
         }
     }
