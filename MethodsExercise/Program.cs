@@ -3,29 +3,44 @@
     public class Program
     {
 
+        public static void AddNumbers(params int[] numbers)
+        {
+            int sum = 0;
+            foreach(int num in numbers)
+            {
+                sum += num;
+            }
+            Console.WriteLine("Sum: " + sum);
+        }
+
         public static int Add(int num1, int num2)
         {
-            return num1 + num2;
+            var answer = num1 + num2;
+            return answer;
         }
 
         public static int Subtract(int num1, int num2)
         {
-            return num1 - num2;
+            var answer = num1 - num2;
+            return answer;            
         }
 
         public static int Multiply(int num1, int num2)
         {
-            return num1 * num2;
+            var answer = num1 * num2;
+            return answer;
         }
 
         public static int Divide(int num1, int num2)
         {
-            return num1 / num2;
+            var answer = num1 / num2;
+            return answer;
         }
 
         public static int Modulus(int num1, int num2)
         {
-            return num1 % num2;
+            var answer = num1 % num2;
+            return answer;
         }
 
         static void Main(string[] args)
@@ -53,11 +68,13 @@
             int answer4 = Divide(15, 3);
             int answer5 = Modulus(14, 3);
 
-            Console.WriteLine(answer1);
-            Console.WriteLine(answer2);
-            Console.WriteLine(answer3);
-            Console.WriteLine(answer4);
-            Console.WriteLine(answer5);
+            Console.WriteLine("Sum: " + answer1);
+            Console.WriteLine("Difference: " + answer2);
+            Console.WriteLine("Product: " + answer3);
+            Console.WriteLine("Quotient: " + answer4);
+            Console.WriteLine("Remainder: " + answer5);
+
+            AddNumbers(1, 1, 1, 1, 1);
 
         }
     }
