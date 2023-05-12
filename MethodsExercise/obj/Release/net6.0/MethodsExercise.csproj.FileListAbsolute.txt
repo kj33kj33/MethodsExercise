@@ -1,0 +1,15 @@
+/Users/james/Desktop/repos/MethodsExercise/MethodsExercise/bin/Release/net6.0/MethodsExercise
+/Users/james/Desktop/repos/MethodsExercise/MethodsExercise/bin/Release/net6.0/MethodsExercise.deps.json
+/Users/james/Desktop/repos/MethodsExercise/MethodsExercise/bin/Release/net6.0/MethodsExercise.runtimeconfig.json
+/Users/james/Desktop/repos/MethodsExercise/MethodsExercise/bin/Release/net6.0/MethodsExercise.dll
+/Users/james/Desktop/repos/MethodsExercise/MethodsExercise/bin/Release/net6.0/MethodsExercise.pdb
+/Users/james/Desktop/repos/MethodsExercise/MethodsExercise/obj/Release/net6.0/MethodsExercise.csproj.AssemblyReference.cache
+/Users/james/Desktop/repos/MethodsExercise/MethodsExercise/obj/Release/net6.0/MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/james/Desktop/repos/MethodsExercise/MethodsExercise/obj/Release/net6.0/MethodsExercise.AssemblyInfoInputs.cache
+/Users/james/Desktop/repos/MethodsExercise/MethodsExercise/obj/Release/net6.0/MethodsExercise.AssemblyInfo.cs
+/Users/james/Desktop/repos/MethodsExercise/MethodsExercise/obj/Release/net6.0/MethodsExercise.csproj.CoreCompileInputs.cache
+/Users/james/Desktop/repos/MethodsExercise/MethodsExercise/obj/Release/net6.0/MethodsExercise.dll
+/Users/james/Desktop/repos/MethodsExercise/MethodsExercise/obj/Release/net6.0/refint/MethodsExercise.dll
+/Users/james/Desktop/repos/MethodsExercise/MethodsExercise/obj/Release/net6.0/MethodsExercise.pdb
+/Users/james/Desktop/repos/MethodsExercise/MethodsExercise/obj/Release/net6.0/MethodsExercise.genruntimeconfig.cache
+/Users/james/Desktop/repos/MethodsExercise/MethodsExercise/obj/Release/net6.0/ref/MethodsExercise.dll
